@@ -1,1 +1,66 @@
 
+{
+	"Ads": {
+		"AdMob": {
+			"activated":false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.parctaxica.tipss",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": "Its important to know whether another car or road user is approaching from behind when you re parking regardless of whether this is reversing or pulling straight into a spot.To do this check your rearview mirror, you’ll then be able to decide whether to let the car go past you or you may find that the driver waits for you to park  but checking allows you to make sure it’s safe to park before performing the manoeuvre.Also check your wing mirrors and blindspots, particularly the side where you’re going to be parking. While the rearview mirror will tend to cover you for other vehicles behind, a cyclist, pedestrian or motorcycle could still take it upon themselves to overtake you when they see you slowing down. " 
+},
+		{
+"title": "Guide 2",
+"description": "Whether it’s a bay on the left or the right, once you’ve found a spot and checked your mirrors, you need to tell those around you the direction that you’re parking in. This will make it less likely that someone will overtake before you pull in, but you should still do a final mirror/blindspot check as a precaution to make sure it’s still safe to turn into a parking space."
+		},
+		{
+"title": "Guide 3",
+"description": "This is for bay parking where the space is in front of your car, either to the left or the right.When we say align your door mirror in the centre of the space, we don’t mean that it has to be directly parallel to the bay in the centre. Essentially, from your driving position the mirror should appear to be in the centre, this gives you enough clearance to manoeuvre into it centrally."
+		},
+		{
+"title": "Guide 4  ",
+"description": "Once you’re happy that your door mirror is in the centre of the space but one from where you want to park, creep forward while turning the wheel a full revolution. Remember to check that your front end steers clear of any cars parked next to the free space before continuing to accelerate. If you’re too close to any car, you’ll need to reverse back to create some more space for you to complete your parking."
+		},
+		{
+"title": "Guide 5",
+"description": "For a reverse perpendicular park, you’ll need to go past the parking space you want to pull into to give you enough of an angle to get in the first time of asking.To do this, perform the first three steps of a normal perpendicular park (find a space, check your rearview mirrors for approaching cars/road users and indicate towards the empty bay). It’s important that you indicate before you pass the parking spot, this way if a car or bike is close behind you they will know to give you enough room to do this or go around you when it’s safe."
+		}
+	]
+}

@@ -31,7 +31,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.parctaxica.tipss",
+		"package_name": "com.taxipar.driveparcta",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
